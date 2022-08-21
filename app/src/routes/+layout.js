@@ -1,9 +1,13 @@
-import { phone, email, menu } from "./layout.json"
+import { phone, email, menu } from "../data/header_v1.json"
+
+const content_Header_v1 = {
+    phone,
+    email,
+    menu
+}
 
 export const load = () => {
     return {
-        phone,
-        email,
-        menu
+        content_Header_v1
     };
 }

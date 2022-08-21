@@ -3,6 +3,10 @@
   "email": "indexpro24@gmail.com",
   "menu": [
     {
+      "value": "Производство",
+      "path": "information/zamer"
+    },
+    {
       "value": "Применение",
       "path": "information/zamer"
     },

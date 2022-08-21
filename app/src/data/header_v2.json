@@ -1,0 +1,21 @@
+{
+  "logo": "https://storage.yandexcloud.net/brand-logo/azbuka-komforta/logo/logo2.png",
+  "menu": [
+    {
+      "value": "Лаборатория",
+      "path": ""
+    },
+    {
+      "value": "Продукция",
+      "path": ""
+    },
+    {
+      "value": "Цены",
+      "path": ""
+    },
+    {
+      "value": "Контакты",
+      "path": ""
+    }
+  ]
+}

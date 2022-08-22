@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    import {Main_v1} from "symax/ui/broker"
+    export let data
+</script>
+
+<Main_v1 {...data.content_Main_v1}/>

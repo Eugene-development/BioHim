@@ -3,19 +3,19 @@
   "menu": [
     {
       "value": "Лаборатория",
-      "path": ""
+      "path": "library"
     },
     {
       "value": "Продукция",
-      "path": ""
+      "path": "products"
     },
     {
       "value": "Цены",
-      "path": ""
+      "path": "price"
     },
     {
       "value": "Контакты",
-      "path": ""
+      "path": "contacts"
     }
   ]
 }

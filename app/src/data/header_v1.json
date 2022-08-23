@@ -4,23 +4,23 @@
   "menu": [
     {
       "value": "Производство",
-      "path": "information/zamer"
+      "path": "information/production"
     },
     {
       "value": "Применение",
-      "path": "information/zamer"
+      "path": "information/application"
     },
     {
       "value": "Фасовка",
-      "path": "information/zamer"
+      "path": "information/packaging"
     },
     {
       "value": "Транспорт",
-      "path": "information/zamer"
+      "path": "information/transportation"
     },
     {
       "value": "Хранение",
-      "path": "information/zamer"
+      "path": "information/storage"
     }
   ]
 }

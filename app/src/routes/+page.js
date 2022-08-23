@@ -1,9 +1,10 @@
 import {content_Main_v1} from "../data/main_v1.js"
-// import {info, link, H1, text_1, text_2} from "../data/main_v1.json"
+import {content_Marketing_v1} from "../data/marketing_v1.js"
 
 
 export const load = () => {
     return {
         content_Main_v1,
+        content_Marketing_v1,
     };
 }

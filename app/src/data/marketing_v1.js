@@ -1,11 +1,10 @@
-const title = 'Lorem ipsum dolor sit amet';
+const title = 'Перекись водорода';
 const description =
-    'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!';
+    'Предлагаем техническую и медицинскую перекись водорода высокого качества от производителя крупным и мелким оптом.';
 
-const img_1 =
-    'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV1/kitchen.jpeg';
+const img_1 = 'https://lega-nn.ru/assets/images/about.jpg';
 const alt_1 = '';
-const img_2 = 'https://storage.yandexcloud.net/brand-logo/mos-mebel/MarketingSectionV1/shkaf.jpeg';
+const img_2 = 'https://lega-nn.ru/assets/images/lab00.jpg';
 const alt_2 = '';
 
 const benefits_1 = [

@@ -1,6 +1,6 @@
 const title = 'Транспортировка';
 const text =
-    'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ducimus eligendi enim et in laborum, magni natus nesciunt officiis omnis quibusdam rem velit vitae voluptatibus.';
+    'Транспортировка осуществляется железнодорожным и автомобильным транспортом в крытых транспортных средствах в соответствии с Правилами перевозок опасных грузов, действующими на данных видах транспорта.';
 const textButton = ''
 const img =
     'https://storage.yandexcloud.net/brand-logo/biohim/foto/99.jpg';

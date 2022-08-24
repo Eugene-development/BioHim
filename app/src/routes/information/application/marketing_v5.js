@@ -1,6 +1,5 @@
 const title = 'Применение';
-const text =
-    'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ducimus eligendi enim et in laborum, magni natus nesciunt officiis omnis quibusdam rem velit vitae voluptatibus.';
+const text = 'Применяется для отбеливания хлопка, тканей, трикотажа, мыла, бумажной и древесной массы, для производства отбеливающих и дезинфицирующих средств, а также как окислитель, катализатор, гидрирующее и эпоксидирующее средство, применяемое в различных областях промышленности. А так же применяется в пищевой промышленности для асептической обработки упаковки';
 const textButton = ''
 const img =
     'https://storage.yandexcloud.net/brand-logo/biohim/foto/99.jpg';

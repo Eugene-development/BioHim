@@ -1,6 +1,5 @@
 const title = 'Хранение';
-const text =
-    'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ducimus eligendi enim et in laborum, magni natus nesciunt officiis omnis quibusdam rem velit vitae voluptatibus.';
+const text = 'Хранится в складских помещениях при температуре не выше 30º С, обеспечивающих защиту от воздействия солнечных лучей. Допускается хранение на открытых площадках, снабжённых навесами.';
 const textButton = ''
 const img =
     'https://storage.yandexcloud.net/brand-logo/biohim/foto/99.jpg';

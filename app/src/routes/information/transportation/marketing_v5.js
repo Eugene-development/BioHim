@@ -1,4 +1,4 @@
-const title = 'Применение';
+const title = 'Транспортировка';
 const text =
     'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ducimus eligendi enim et in laborum, magni natus nesciunt officiis omnis quibusdam rem velit vitae voluptatibus.';
 const textButton = ''

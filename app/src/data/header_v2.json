@@ -2,8 +2,8 @@
   "logo": "https://lega-nn.ru/assets/templates/default/i/logo_full.png",
   "menu": [
     {
-      "value": "Лаборатория",
-      "path": "library"
+      "value": "Главная",
+      "path": ""
     },
     {
       "value": "Продукция",

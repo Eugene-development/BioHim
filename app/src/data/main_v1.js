@@ -1,6 +1,6 @@
-const info = 'Мы открыты';
+const info = 'Перекись водорода';
 const link = {
-    value: 'Посетите наши офисы',
+    value: 'по оптовым ценам',
     path: 'contacts'
 };
 
@@ -19,13 +19,13 @@ const text_2 =
 
 const apiMail = import.meta.env.VITE_API_MAIL
 const apiToken = import.meta.env.VITE_TOKEN
-const header = 'Экспресс заявка';
-const subheader = 'ответим в течении 24 часов'
-const nameForm = 'Введите имя'
-const phoneForm = 'Ваш телефон'
+const header = 'On-line заявка';
+const subheader = ''
+const nameForm = 'Имя'
+const phoneForm = 'Телефон'
 const addressForm = null
 const timeForm = null
-const emailForm = 'Ваша почта'
+const emailForm = 'Почта'
 const variantForm = 'Вид перекиси'
 const volumeForm = 'Необходимый объём'
 const comment = 'После отправки заявки с вами свяжется менеджер для уточнения нюансов'

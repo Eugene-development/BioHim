@@ -15,7 +15,7 @@
                 <div class="max-w-lg mx-auto rounded-lg shadow-lg overflow-hidden lg:max-w-none lg:flex">
                     <div class="flex-1 bg-white px-6 py-8 lg:p-12">
                         <h3 class="text-2xl font-bold text-gray-900 sm:text-3xl sm:tracking-tight">Ценовая политика</h3>
-                        <p class="mt-6 text-base text-gray-500">В связи с валотильностью отпускных цен на сырьё и временными сложностями в логистике предоставляем актуальные цены только по фактическому запросу</p>
+                        <p class="mt-6 text-base text-gray-500">Предоставляем актуальные цены только по фактическому запросу</p>
                         <div class="mt-8">
                             <div class="flex items-center">
                                 <h4 class="flex-shrink-0 pr-4 bg-white text-base font-semibold text-green-600">Что необходимо указать</h4>
@@ -29,7 +29,7 @@
                                             <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                                         </svg>
                                     </div>
-                                    <p class="ml-3 text-sm text-gray-700">ИНН организации</p>
+                                    <p class="ml-3 text-sm text-gray-700">Ваша почта</p>
                                 </li>
 
                                 <li class="flex items-start lg:col-span-1">
@@ -65,7 +65,7 @@
                         </div>
                     </div>
                     <div class="py-8 px-6 text-center bg-gray-50 lg:flex-shrink-0 lg:flex lg:flex-col lg:justify-center lg:p-12">
-                        <p class="text-lg leading-6 font-medium text-gray-900">Цены актуальны 24 часа</p>
+                        <p class="text-lg leading-6 font-medium text-gray-900">Компания "БиоХим"</p>
                         <div class="mt-4 flex items-center justify-center text-5xl tracking-tight font-bold text-gray-900">
 <!--                            <span> ₽ 0</span>-->
 <!--                            <span class="ml-3 text-xl font-medium text-gray-500 tracking-normal"> RUB </span>-->

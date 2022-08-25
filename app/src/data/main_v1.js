@@ -16,10 +16,35 @@ const text_1 =
 const text_2 =
     'Перекись водорода - негорючая, пожаровзрывоопасная жидкость, является сильным окислителем, энергично вступающим в реакции со многими веществами. Она способна самопроизвольно разлагаться на воду и кислород, это свойство особенно важно из-за возрастающей в последнее время озабоченности состоянием окружающей среды.';
 
+
+const apiMail = import.meta.env.VITE_API_MAIL
+const apiToken = import.meta.env.VITE_TOKEN
 const header = 'Экспресс заявка';
+const subheader = 'ответим в течении 24 часов'
+const nameForm = 'Введите имя'
+const phoneForm = 'Ваш телефон'
+const addressForm = null
+const timeForm = null
+const emailForm = 'Ваша почта'
+const variantForm = 'Вид перекиси'
+const volumeForm = 'Необходимый объём'
+const comment = 'После отправки заявки с вами свяжется менеджер для уточнения нюансов'
+
+
 
 const contentForm_v1 = {
-    header
+    apiMail,
+    apiToken,
+    header,
+    subheader,
+    nameForm,
+    phoneForm,
+    addressForm,
+    timeForm,
+    emailForm,
+    variantForm,
+    volumeForm,
+    comment
 };
 
 export const content_Main_v1 = {

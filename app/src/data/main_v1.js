@@ -7,7 +7,7 @@ const link = {
 const H1 = `
 <h1 class="mt-4 tracking-tight font-extrabold text-white sm:mt-5 sm:leading-none lg:mt-6 text-4xl lg:text-4xl xl:text-5xl antialiased">
 <span class="md:block">Перекись водорода</span>
-<span class="pb-3 block bg-clip-text text-transparent bg-gradient-to-r from-green-200 to-cyan-400 sm:pb-5">H2O2 оптом</span>
+<span class="pb-3 block bg-clip-text text-transparent bg-gradient-to-r from-green-200 to-cyan-400 sm:pb-5">H2O2</span>
 </h1>
 `;
 
@@ -20,7 +20,7 @@ const text_2 =
 const apiMail = import.meta.env.VITE_API_MAIL
 const apiToken = import.meta.env.VITE_TOKEN
 const header = 'On-line заявка';
-const subheader = ''
+const subheader = 'на получение актуальной цены'
 const nameForm = 'Имя'
 const phoneForm = 'Телефон'
 const addressForm = null

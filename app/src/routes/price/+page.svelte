@@ -75,7 +75,7 @@
 <!--                        </p>-->
                         <div class="mt-6">
                             <div class="rounded-md shadow">
-                                <a href="#" class="flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-800 hover:bg-gray-900"> Отправить запрос </a>
+                                <a href="#" class="flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-800 hover:bg-gray-900"> Отправить запрос на цену</a>
                             </div>
                         </div>
                         <div class="mt-4 text-sm">

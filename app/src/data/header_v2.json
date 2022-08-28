@@ -2,20 +2,24 @@
   "logo": "https://storage.yandexcloud.net/brand-logo/biohim/logo/logo2.png",
   "menu": [
     {
-      "value": "Главная",
-      "path": ""
+      "value": "Производство",
+      "path": "information/production"
     },
     {
-      "value": "Продукция",
-      "path": "products"
+      "value": "Применение",
+      "path": "information/application"
     },
     {
-      "value": "Цены",
-      "path": "price"
+      "value": "Фасовка",
+      "path": "information/packaging"
     },
     {
-      "value": "Контакты",
-      "path": "contacts"
+      "value": "Транспорт",
+      "path": "information/transportation"
+    },
+    {
+      "value": "Хранение",
+      "path": "information/storage"
     }
   ]
 }

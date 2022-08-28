@@ -3,24 +3,20 @@
   "email": "info@biohim.org",
   "menu": [
     {
-      "value": "Производство",
-      "path": "information/production"
+      "value": "Главная",
+      "path": ""
     },
     {
-      "value": "Применение",
-      "path": "information/application"
+      "value": "Продукция",
+      "path": "products"
     },
     {
-      "value": "Фасовка",
-      "path": "information/packaging"
+      "value": "Цены",
+      "path": "price"
     },
     {
-      "value": "Транспорт",
-      "path": "information/transportation"
-    },
-    {
-      "value": "Хранение",
-      "path": "information/storage"
+      "value": "Контакты",
+      "path": "contacts"
     }
   ]
 }

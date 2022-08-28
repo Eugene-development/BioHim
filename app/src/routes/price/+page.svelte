@@ -14,7 +14,7 @@
             <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div class="max-w-lg mx-auto rounded-lg shadow-lg overflow-hidden lg:max-w-none lg:flex">
                     <div class="flex-1 bg-white px-6 py-8 lg:p-12">
-                        <h3 class="text-2xl font-bold text-gray-900 sm:text-3xl sm:tracking-tight">Ценовая политика</h3>
+                        <h3 class="text-2xl font-bold text-gray-900 sm:text-3xl sm:tracking-tight">Запрос на получение актуальной цены</h3>
                         <p class="mt-6 text-base text-gray-500">Предоставляем актуальные цены только по фактическому запросу</p>
                         <div class="mt-8">
                             <div class="flex items-center">
@@ -75,12 +75,12 @@
 <!--                        </p>-->
                         <div class="mt-6">
                             <div class="rounded-md shadow">
-                                <a href="#" class="flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-800 hover:bg-gray-900"> Отправить запрос на цену</a>
+                                <a href="#" class="flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gray-800 hover:bg-gray-900"> Отправить запрос</a>
                             </div>
                         </div>
                         <div class="mt-4 text-sm">
                             <a href="#" class="font-medium text-gray-900">
-                                Ответим в течении суток
+                                Ответим на вашу почту в ближайшее время
                                 <span class="font-normal text-gray-500"> </span>
                             </a>
                         </div>

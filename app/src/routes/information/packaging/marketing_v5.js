@@ -1,6 +1,6 @@
 const title = 'Фасовка';
 const text =
-    'Фасуется в еврокубы 1000л';
+    'Фасуется в IBC-контейнеры по 1000 литров (1070 кг)';
 const textButton = ''
 const img =
     'https://storage.yandexcloud.net/brand-logo/biohim/foto/99.jpg';

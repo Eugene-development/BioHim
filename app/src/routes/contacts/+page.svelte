@@ -53,7 +53,7 @@
             <div>
                 <h2 class="text-2xl font-extrabold text-gray-900 sm:text-3xl">Отдел по работе с клиентами</h2>
                 <div class="mt-3">
-                    <p class="text-lg text-gray-500">Связь с менеджером Брунгильдой</p>
+                    <p class="text-lg text-gray-500">Связь с ведущим специалистом</p>
                 </div>
                 <div class="mt-9">
                     <div class="flex">

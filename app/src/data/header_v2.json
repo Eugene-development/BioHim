@@ -2,10 +2,6 @@
   "logo": "https://storage.yandexcloud.net/brand-logo/biohim/logo/logo2.png",
   "menu": [
     {
-      "value": "Производство",
-      "path": "information/production"
-    },
-    {
       "value": "Применение",
       "path": "information/application"
     },

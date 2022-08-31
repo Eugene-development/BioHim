@@ -4,7 +4,7 @@
     <div class="max-w-7xl mx-auto py-16 px-4  sm:px-6 lg:py-20 lg:px-8">
         <div class="text-lg max-w-prose mx-auto">
             <h1>
-                <span class="block text-base text-center text-sky-600 font-semibold tracking-wide uppercase">Продукция</span>
+                <span class="block text-base text-center text-blue-400 font-semibold tracking-wide uppercase">Продукция</span>
                 <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Перекись водорода</span>
             </h1>
         </div>

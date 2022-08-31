@@ -12,7 +12,7 @@
     <div class="max-w-7xl mx-auto py-20 px-4 sm:px-6 lg:px-8">
         <div class="text-lg max-w-prose mx-auto">
             <h1>
-                <span class="block text-base text-center text-sky-600 font-semibold tracking-wide uppercase">Контакты</span>
+                <span class="block text-base text-center text-blue-400 font-semibold tracking-wide uppercase">Контакты</span>
                 <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Связаться с нами</span>
             </h1>
         </div>
@@ -64,7 +64,7 @@
                             </svg>
                         </div>
                         <div class="ml-3 text-base text-gray-500">
-                            <p>+7 (499) 777-77-77</p>
+                            <p>+7 (495) 080-81-01</p>
 <!--                            <p class="mt-1">Пн-Вс с 10-00 до 19-00</p>-->
                         </div>
                     </div>
@@ -76,7 +76,7 @@
                             </svg>
                         </div>
                         <div class="ml-3 text-base text-gray-500">
-                            <p>info@biohim.org</p>
+                            <p>biohim.org@yandex.ru</p>
                         </div>
                     </div>
                     <div class="mt-6 flex">

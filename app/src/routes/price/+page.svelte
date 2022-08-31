@@ -3,7 +3,7 @@
     <div class="pt-16 sm:pt-16 lg:pt-20">
         <div class="text-lg max-w-prose mx-auto">
             <h1>
-                <span class="block text-base text-center text-sky-600 font-semibold tracking-wide uppercase">Цены</span>
+                <span class="block text-base text-center text-blue-400 font-semibold tracking-wide uppercase">Цены</span>
                 <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Запрос на цену</span>
             </h1>
         </div>
@@ -18,7 +18,7 @@
                         <p class="mt-6 text-base text-gray-500">Предоставляем актуальные цены только по фактическому запросу</p>
                         <div class="mt-8">
                             <div class="flex items-center">
-                                <h4 class="flex-shrink-0 pr-4 bg-white text-base font-semibold text-blue-600">Что необходимо указать</h4>
+                                <h4 class="flex-shrink-0 pr-4 bg-white text-base font-semibold text-blue-400">Что необходимо указать</h4>
                                 <div class="flex-1 border-t-2 border-gray-200"></div>
                             </div>
                             <ul role="list" class="mt-8 space-y-5 lg:space-y-0 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:gap-y-5">

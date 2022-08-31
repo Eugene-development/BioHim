@@ -32,7 +32,7 @@ const menu = [
 
 const company = 'БиоХим'
 
-export const data_mobile_menu = {
+export const mobile_menu = {
     logo,
     menu,
     company

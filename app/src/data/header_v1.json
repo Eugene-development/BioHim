@@ -1,6 +1,6 @@
 {
-  "phone": "+7 (495) 147-86-77",
-  "email": "info@biohim.org",
+  "phone": "+7 (495) 080-81-01",
+  "email": "biohim.org@yandex.ru",
   "menu": [
     {
       "value": "Главная",
@@ -9,10 +9,6 @@
     {
       "value": "Продукция",
       "path": "products"
-    },
-    {
-      "value": "Применение",
-      "path": "application"
     },
     {
       "value": "Цены",

@@ -2,47 +2,39 @@ const title = 'Перекись водорода';
 const description =
     'Предлагаем техническую и медицинскую перекись водорода высокого качества от производителя крупным и мелким оптом.';
 
-const img_1 = 'https://lega-nn.ru/assets/images/about.jpg';
+const img_1 = 'https://storage.yandexcloud.net/brand-logo/biohim/foto/bussein.jpg';
 const alt_1 = '';
-const img_2 = 'https://lega-nn.ru/assets/images/lab00.jpg';
+const img_2 = 'https://storage.yandexcloud.net/brand-logo/biohim/foto/med.png';
 const alt_2 = '';
 
 const benefits_1 = [
     {
         value:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!'
+            'Техническая перекись водорода активно применяется как в профессиональных сферах человеческой деятельности (промышленность, медицина, транспорт) так и в быту. Как правило, вещество используется для отбеливания, дезинфекции и обеззараживания различных поверхностей – мебели, оборудования, тканей, инструментов и прочих немедецинских материалов.'
     },
     {
         value:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!'
+            'Применять техническую перекись разрешается только в хорошо вентилируемых помещениях и на открытых площадках. Средство быстро растворяется в обычной воде, не имеет запаха и цвета. Широко используется для очистки воды в бассейнах и искусственных прудах.'
     },
     {
         value:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!'
+            'Техническая перекись водорода экономична и доступна по цене, поэтому ее часто используют в быту для проведения дезинфекции предметов мебели. Уничтожает грибки, бактерии и многие опасные для организма человек патогенных микроорганизмы. Применять средство следует согласно прилагаемой инструкции, написанной на упаковке – это позволит добиться максимального эффекта и избежать рисков, связанных с повреждением обрабатываемых поверхностей.'
     },
-    {
-        value:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!'
-    }
 ];
 
 const benefits_2 = [
     {
         value:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!'
+            'Перекись водорода медицинская применяется в медучреждениях и лабораториях для дезинфекции поверхностей в помещениях, жёсткой мебели, поверхностей аппаратов и приборов, санитарно-технического оборудования, белья, посуды , игрушек, предметов ухода за больными. А также для дезинфекции транспорта и предстерилизационной очистки медицинских изделий.'
     },
     {
         value:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!'
+            'Перекись водорода медицинская обладает высокой антимикробной активностью в отношении бактерий, в том числе спорообразующих вирусов и грибов (возбудителей дерматофитий). Также эффективна в борьбе с коронавиросом, для оббезараживания воды и для очитки бассейнов.'
     },
     {
         value:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!'
+            'Медицинская перекись представляет собой антисептическое средство, относящееся к группе антиоксидантов. При изготовлении растворов (1-3 % наружное применение, 0,25 % для полоскания) применяется для обработки гнойных ран, остановки капиллярных кровотечений, дезинфекции и дезодорирования таких заболеваний как ангина, тонзиллит, стоматит. В некоторых случаях может использоваться в качестве антисептика при лечении гинекологических отклонений.'
     },
-    {
-        value:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, provident saepe. Alias error inventore magni optio quaerat quasi repellendus temporibus!'
-    }
 ];
 
 export const content_Marketing_v1 = {

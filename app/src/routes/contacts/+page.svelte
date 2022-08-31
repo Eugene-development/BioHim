@@ -49,13 +49,13 @@
         <!--        </section>-->
 
 
-        <div class="max-w-lg py-16 mx-auto md:max-w-none md:grid md:grid-cols-2 md:gap-8">
+        <div class="max-w-lg py-20 mx-auto md:max-w-none md:grid md:grid-cols-2 md:gap-8">
             <div>
                 <h2 class="text-2xl font-extrabold text-gray-900 sm:text-3xl">Отдел по работе с клиентами</h2>
                 <div class="mt-3">
                     <p class="text-lg text-gray-500">Связь с ведущим специалистом:</p>
                 </div>
-                <div class="mt-9">
+                <div class="mt-12">
                     <div class="flex">
                         <div class="flex-shrink-0">
                             <!-- Heroicon name: outline/phone -->
@@ -91,7 +91,7 @@
                     </div>
                 </div>
             </div>
-            <div class="mt-16 sm:mt-24 md:mt-6">
+            <div class="mt-16 sm:mt-24 md:mt-12">
                 <img class="mx-auto h-52" src="https://storage.yandexcloud.net/brand-logo/biohim/logo/BioHim_free-file.png" alt="logo">
             </div>
         </div>

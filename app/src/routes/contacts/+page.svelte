@@ -9,7 +9,7 @@
 </svelte:head>
 
 <div class="bg-gradient-to-b from-white via-white to-gray-50">
-    <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:px-8">
+    <div class="max-w-7xl mx-auto py-20 px-4 sm:px-6 lg:px-8">
         <div class="text-lg max-w-prose mx-auto">
             <h1>
                 <span class="block text-base text-center text-sky-600 font-semibold tracking-wide uppercase">Контакты</span>
@@ -91,8 +91,8 @@
                     </div>
                 </div>
             </div>
-            <div class="mt-16 sm:mt-24 md:mt-0">
-                <img class="mx-auto h-full" src="https://storage.yandexcloud.net/brand-logo/biohim/logo/BioHim_free-file.png" alt="logo">
+            <div class="mt-16 sm:mt-24 md:mt-6">
+                <img class="mx-auto h-52" src="https://storage.yandexcloud.net/brand-logo/biohim/logo/BioHim_free-file.png" alt="logo">
             </div>
         </div>
 

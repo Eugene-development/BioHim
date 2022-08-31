@@ -1,11 +1,11 @@
 <!-- This example requires Tailwind CSS v2.0+ -->
 <div class="bg-gray-100">
-    <div class="pt-12 sm:pt-16 lg:pt-20">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="text-center">
-                <h2 class="text-3xl tracking-tight font-bold text-gray-900 sm:text-4xl sm:tracking-tight lg:text-5xl lg:tracking-tight">Цены по запросу</h2>
-                <p class="mt-4 text-xl text-gray-600">Для получения актуальной цены отправьте запрос на нашу почту с необходимой информацией</p>
-            </div>
+    <div class="pt-16 sm:pt-16 lg:pt-20">
+        <div class="text-lg max-w-prose mx-auto">
+            <h1>
+                <span class="block text-base text-center text-sky-600 font-semibold tracking-wide uppercase">Цены</span>
+                <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Запрос на цену</span>
+            </h1>
         </div>
     </div>
     <div class="mt-8 bg-white pb-16 sm:mt-12 sm:pb-20 lg:pb-28">
@@ -18,14 +18,14 @@
                         <p class="mt-6 text-base text-gray-500">Предоставляем актуальные цены только по фактическому запросу</p>
                         <div class="mt-8">
                             <div class="flex items-center">
-                                <h4 class="flex-shrink-0 pr-4 bg-white text-base font-semibold text-green-600">Что необходимо указать</h4>
+                                <h4 class="flex-shrink-0 pr-4 bg-white text-base font-semibold text-blue-600">Что необходимо указать</h4>
                                 <div class="flex-1 border-t-2 border-gray-200"></div>
                             </div>
                             <ul role="list" class="mt-8 space-y-5 lg:space-y-0 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:gap-y-5">
                                 <li class="flex items-start lg:col-span-1">
                                     <div class="flex-shrink-0">
                                         <!-- Heroicon name: solid/check-circle -->
-                                        <svg class="h-5 w-5 text-green-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                                        <svg class="h-5 w-5 text-blue-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                                             <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                                         </svg>
                                     </div>
@@ -35,7 +35,7 @@
                                 <li class="flex items-start lg:col-span-1">
                                     <div class="flex-shrink-0">
                                         <!-- Heroicon name: solid/check-circle -->
-                                        <svg class="h-5 w-5 text-green-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                                        <svg class="h-5 w-5 text-blue-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                                             <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                                         </svg>
                                     </div>
@@ -45,7 +45,7 @@
                                 <li class="flex items-start lg:col-span-1">
                                     <div class="flex-shrink-0">
                                         <!-- Heroicon name: solid/check-circle -->
-                                        <svg class="h-5 w-5 text-green-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                                        <svg class="h-5 w-5 text-blue-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                                             <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                                         </svg>
                                     </div>
@@ -55,7 +55,7 @@
                                 <li class="flex items-start lg:col-span-1">
                                     <div class="flex-shrink-0">
                                         <!-- Heroicon name: solid/check-circle -->
-                                        <svg class="h-5 w-5 text-green-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                                        <svg class="h-5 w-5 text-blue-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                                             <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                                         </svg>
                                     </div>

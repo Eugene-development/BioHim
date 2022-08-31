@@ -11,6 +11,10 @@
       "path": "products"
     },
     {
+      "value": "Применение",
+      "path": "application"
+    },
+    {
       "value": "Цены",
       "path": "price"
     },

@@ -2,8 +2,8 @@
   "logo": "https://storage.yandexcloud.net/brand-logo/biohim/logo/logo2.png",
   "menu": [
     {
-      "value": "Применение",
-      "path": "information/application"
+      "value": "Производство",
+      "path": "information/production"
     },
     {
       "value": "Фасовка",

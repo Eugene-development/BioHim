@@ -1,6 +1,6 @@
 const title = 'Производство';
 const text =
-    'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ducimus eligendi enim et in laborum, magni natus nesciunt officiis omnis quibusdam rem velit vitae voluptatibus.';
+    'Перекись водорода производится на заводах Турции, Индии, Китая, Финляндии и поставляется напрямую с заводов изготовителей через наши склады.';
 const textButton = ''
 const img =
     'https://storage.yandexcloud.net/brand-logo/biohim/foto/99.jpg';
